@@ -1,4 +1,4 @@
-## Eu Sou Elissandrojr 
+## Eu Sou Elissandro Menezes  
 
 - 🎓 Estudante de Sistemas de Informação
 - 📝 Estudando Ruby on Rails, JavaScript, HTML e CSS 
