@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Elissandro Menezes
 - I live in :brazil:, north :sunglasses::sunrise:
-- I have been working on Policia Rodoviaria Federal infrastructure and support technician
+- I have been working on Policia Rodoviaria Federal, infrastructure and support technician
 - I have been learnig more about Ruby on Rails :sparkling_heart:
 
 ## Connect with me:
